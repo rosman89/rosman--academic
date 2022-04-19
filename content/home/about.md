@@ -1,10 +1,11 @@
 ---
 widget: about
 widget_id: upgrade
-headless: false
+headless: true
 weight: 30
 title: Biography
 active: true
 author: admin
 ---
 ---
+Welcome to my website
