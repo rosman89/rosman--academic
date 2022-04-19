@@ -1,6 +1,6 @@
 ---
 title: Rana Osman
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Islamic Law at SOAS University of London
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -19,25 +19,25 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/rosman89
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Oriental and African Studies (SOAS) University of London
+    url: https://www.soas.ac.uk/staff/staff147041.php
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MA in Islamic Law
+      institution: SOAS University of London
+      year: 2018
+    - course: MA in Middle East and Islamic Studies
+      institution: George Mason University
+      year: 2016
+    - course: BSc in Criminal Justice; Minor in Political Science
+      institution: Virginia Commonwealth University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: "r_osman@soas.ac.uk"
 superuser: true
 highlight_name: true
 ---
