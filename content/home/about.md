@@ -2,8 +2,8 @@
 widget: about
 widget_id: upgreade
 headless: true
-weight: 20
-title: Biography Rana osman
+weight: 30
+title: Biography
 active: true
 author: admin
 ---
