@@ -1,6 +1,6 @@
 ---
 title: Rana Osman
-role: PhD Candidate in Islamic Law at SOAS University of London
+role: PhD Candidate in Islamic Law
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
